@@ -1,0 +1,14 @@
+{
+  "packages": {
+    ".": {
+      "changelog-type": "github",
+      "draft": true,
+      "extra-files": [
+        "build.gradle"
+      ],
+      "include-component-in-tag": false,
+      "release-type": "java",
+      "skip-changelog": true
+    }
+  }
+}
