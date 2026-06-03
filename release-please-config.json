@@ -6,6 +6,7 @@
       "extra-files": [
         "build.gradle"
       ],
+      "force-tag-creation": true,
       "include-component-in-tag": false,
       "release-type": "java",
       "skip-changelog": true
